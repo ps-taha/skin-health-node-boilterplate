@@ -1,7 +1,7 @@
 {
-  "name": "customers",
+  "name": "boilterPlate",
   "version": "1.0.0",
-  "description": "Node.js app for creating a customers service",
+  "description": "Node.js app for creating a  service",
   "main": "src/index.js",
   "repository": "",
   "author": "",
