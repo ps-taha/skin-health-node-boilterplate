@@ -1,5 +1,5 @@
 {
-  "name": "boilterPlate",
+  "name": "boilterplate",
   "version": "1.0.0",
   "description": "Node.js app for creating a  service",
   "main": "src/index.js",
